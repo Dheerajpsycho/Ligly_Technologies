@@ -22,7 +22,7 @@ local_css("style/style.css")
 
 # ---- LOAD ASSETS ----
 lottie_coding = load_lottieurl('https://assets7.lottiefiles.com/packages/lf20_w51pcehl.json')
-img_love = Image.open('images/wanda.jpg')
+
 
 #  ------- HEADER SECTION -------
 with st.container():
