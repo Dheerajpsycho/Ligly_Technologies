@@ -1,4 +1,3 @@
-PIL
 requests
 streamlit
 streamlit_lottie
